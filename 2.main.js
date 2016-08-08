@@ -3,7 +3,7 @@ var eventEmitter = new events.EventEmitter();  //eventEmitter 对象？
 
 //绑定事件
 eventEmitter.on('exportFile', function(){
-	
+	var 
 });
 
 
